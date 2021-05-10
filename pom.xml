@@ -16,6 +16,15 @@
 			<scope>test</scope>
 		</dependency>
 	</dependencies>
+
+  <repositories>
+    <repository>
+      <id>example-repo</id>
+      <name>Example Repository</name>
+      <url>file:///root/.m2/repository</url>
+    </repository>
+  </repositories>
+	
   <build>
     <plugins>
       <plugin>
