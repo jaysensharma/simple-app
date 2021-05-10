@@ -21,7 +21,7 @@
     <repository>
       <id>example-repo</id>
       <name>Example Repository</name>
-      <url>file:///root/.m2/repository</url>
+      <url>file:///root_X/.m2/repository</url>
     </repository>
   </repositories>
 	
